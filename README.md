@@ -30,7 +30,7 @@ The Smart Solar Window System combines innovative technology with sustainable pr
 
 ## Technologies Used
 
-- **Arduino**: For controlling sensors and actuators.
+- **ESP32**: For controlling sensors and actuators.
 - **IoT**: Connects devices for remote monitoring and control.
 - **Simulink**: For modeling and simulating the system.
 - **Renewable Energy**: Focuses on sustainable energy sources.
@@ -51,7 +51,7 @@ To install the Smart Solar Window System, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Ensure you have the required libraries installed for Arduino and Simulink.
+   Ensure you have the required libraries installed for ESP-32 and Simulink.
 
 4. **Download the Latest Release**:
    Visit the [Releases](https://github.com/IdreesAbuEtewy/IntelliGlass-Smart-Solar-Window-System/releases) section to download the latest version. Execute the necessary files for setup.
@@ -94,24 +94,7 @@ The Smart Solar Window System contributes positively to the environment:
 - **Improved Air Quality**: Automated ventilation enhances indoor air quality.
 - **Sustainable Design**: Integrates renewable energy into building architecture.
 
-## Contributing
 
-We welcome contributions to improve the Smart Solar Window System. If you would like to contribute, please follow these steps:
-
-1. **Fork the Repository**: Create a personal copy of the project.
-2. **Create a Branch**: Develop your feature or fix on a new branch.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. **Commit Your Changes**: Make sure to document your changes.
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. **Push to Your Branch**:
-   ```bash
-   git push origin feature-name
-   ```
-5. **Create a Pull Request**: Submit your changes for review.
 
 ## License
 
